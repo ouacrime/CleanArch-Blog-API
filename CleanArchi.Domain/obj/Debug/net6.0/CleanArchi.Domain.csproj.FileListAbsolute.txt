@@ -10,3 +10,4 @@ C:\Users\pc\source\repos\CleanArchi\CleanArchi.Domain\obj\Debug\net6.0\CleanArch
 C:\Users\pc\source\repos\CleanArchi\CleanArchi.Domain\obj\Debug\net6.0\refint\CleanArchi.Domain.dll
 C:\Users\pc\source\repos\CleanArchi\CleanArchi.Domain\obj\Debug\net6.0\CleanArchi.Domain.pdb
 C:\Users\pc\source\repos\CleanArchi\CleanArchi.Domain\obj\Debug\net6.0\ref\CleanArchi.Domain.dll
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Domain\obj\Debug\net6.0\CleanArchi.Domain.sourcelink.json

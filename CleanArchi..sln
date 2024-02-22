@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchi.API", "..\CleanArchi\CleanArchi.API\CleanArchi.API.csproj", "{8B3272E4-AEC6-4134-B1B2-FD49B2B863E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchi.API", "CleanArchi.API\CleanArchi.API.csproj", "{8B3272E4-AEC6-4134-B1B2-FD49B2B863E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchi.Domain", "..\CleanArchi\CleanArchi.Domain\CleanArchi.Domain.csproj", "{D51DEEB8-B753-4AA0-B4B5-6D05A1B7F63F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchi.Domain", "CleanArchi.Domain\CleanArchi.Domain.csproj", "{D51DEEB8-B753-4AA0-B4B5-6D05A1B7F63F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchi.Application", "..\CleanArchi\CleanArchi.Application\CleanArchi.Application.csproj", "{4214504B-D971-4943-B1A1-916A2055F971}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchi.Application", "CleanArchi.Application\CleanArchi.Application.csproj", "{4214504B-D971-4943-B1A1-916A2055F971}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchi.Infra", "..\CleanArchi\CleanArchi.Infra\CleanArchi.Infra.csproj", "{77D125BA-AB79-4E51-8D64-4380835B7977}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchi.Infra", "CleanArchi.Infra\CleanArchi.Infra.csproj", "{77D125BA-AB79-4E51-8D64-4380835B7977}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

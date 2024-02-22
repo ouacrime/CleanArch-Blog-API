@@ -13,3 +13,4 @@ C:\Users\pc\source\repos\CleanArchi\CleanArchi.Application\obj\Debug\net6.0\Clea
 C:\Users\pc\source\repos\CleanArchi\CleanArchi.Application\obj\Debug\net6.0\refint\CleanArchi.Application.dll
 C:\Users\pc\source\repos\CleanArchi\CleanArchi.Application\obj\Debug\net6.0\CleanArchi.Application.pdb
 C:\Users\pc\source\repos\CleanArchi\CleanArchi.Application\obj\Debug\net6.0\ref\CleanArchi.Application.dll
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Application\obj\Debug\net6.0\CleanArchi.Application.sourcelink.json
