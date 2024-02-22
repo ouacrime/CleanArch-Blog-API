@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Application\bin\Debug\net6.0\CleanArchi.Application.deps.json
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Application\bin\Debug\net6.0\CleanArchi.Application.dll
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Application\bin\Debug\net6.0\CleanArchi.Application.pdb
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Application\bin\Debug\net6.0\CleanArchi.Domain.dll
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Application\bin\Debug\net6.0\CleanArchi.Domain.pdb
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Application\obj\Debug\net6.0\CleanArchi.Application.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Application\obj\Debug\net6.0\CleanArchi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Application\obj\Debug\net6.0\CleanArchi.Application.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Application\obj\Debug\net6.0\CleanArchi.Application.AssemblyInfo.cs
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Application\obj\Debug\net6.0\CleanArchi.Application.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Application\obj\Debug\net6.0\CleanArc.2F332BE9.Up2Date
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Application\obj\Debug\net6.0\CleanArchi.Application.dll
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Application\obj\Debug\net6.0\refint\CleanArchi.Application.dll
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Application\obj\Debug\net6.0\CleanArchi.Application.pdb
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Application\obj\Debug\net6.0\ref\CleanArchi.Application.dll

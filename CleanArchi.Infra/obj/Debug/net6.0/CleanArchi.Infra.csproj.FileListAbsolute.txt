@@ -1,0 +1,17 @@
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Infra\bin\Debug\net6.0\CleanArchi.Infra.deps.json
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Infra\bin\Debug\net6.0\CleanArchi.Infra.dll
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Infra\bin\Debug\net6.0\CleanArchi.Infra.pdb
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Infra\bin\Debug\net6.0\CleanArchi.Application.dll
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Infra\bin\Debug\net6.0\CleanArchi.Domain.dll
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Infra\bin\Debug\net6.0\CleanArchi.Application.pdb
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Infra\bin\Debug\net6.0\CleanArchi.Domain.pdb
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Infra\obj\Debug\net6.0\CleanArchi.Infra.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Infra\obj\Debug\net6.0\CleanArchi.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Infra\obj\Debug\net6.0\CleanArchi.Infra.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Infra\obj\Debug\net6.0\CleanArchi.Infra.AssemblyInfo.cs
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Infra\obj\Debug\net6.0\CleanArchi.Infra.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Infra\obj\Debug\net6.0\CleanArc.E15D8520.Up2Date
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Infra\obj\Debug\net6.0\CleanArchi.Infra.dll
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Infra\obj\Debug\net6.0\refint\CleanArchi.Infra.dll
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Infra\obj\Debug\net6.0\CleanArchi.Infra.pdb
+C:\Users\pc\source\repos\CleanArchi\CleanArchi.Infra\obj\Debug\net6.0\ref\CleanArchi.Infra.dll
