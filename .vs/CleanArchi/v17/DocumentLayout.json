@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\CleanArchi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4214504B-D971-4943-B1A1-916A2055F971}|CleanArchi.Application\\CleanArchi.Application.csproj|c:\\users\\pc\\source\\repos\\cleanarchi\\cleanarchi.application\\configuresevices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4214504B-D971-4943-B1A1-916A2055F971}|CleanArchi.Application\\CleanArchi.Application.csproj|solutionrelative:cleanarchi.application\\configuresevices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4214504B-D971-4943-B1A1-916A2055F971}|CleanArchi.Application\\CleanArchi.Application.csproj|c:\\users\\pc\\source\\repos\\cleanarchi\\cleanarchi.application\\blogs\\commands\\createblog\\createblogcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4214504B-D971-4943-B1A1-916A2055F971}|CleanArchi.Application\\CleanArchi.Application.csproj|solutionrelative:cleanarchi.application\\blogs\\commands\\createblog\\createblogcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4214504B-D971-4943-B1A1-916A2055F971}|CleanArchi.Application\\CleanArchi.Application.csproj|c:\\users\\pc\\source\\repos\\cleanarchi\\cleanarchi.application\\common\\behaviours\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4214504B-D971-4943-B1A1-916A2055F971}|CleanArchi.Application\\CleanArchi.Application.csproj|solutionrelative:cleanarchi.application\\common\\behaviours\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D125BA-AB79-4E51-8D64-4380835B7977}|CleanArchi.Infra\\CleanArchi.Infra.csproj|c:\\users\\pc\\source\\repos\\cleanarchi\\cleanarchi.infra\\repository\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D125BA-AB79-4E51-8D64-4380835B7977}|CleanArchi.Infra\\CleanArchi.Infra.csproj|solutionrelative:cleanarchi.infra\\repository\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8B3272E4-AEC6-4134-B1B2-FD49B2B863E9}|CleanArchi.API\\CleanArchi.API.csproj|c:\\users\\pc\\source\\repos\\cleanarchi\\cleanarchi.api\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B3272E4-AEC6-4134-B1B2-FD49B2B863E9}|CleanArchi.API\\CleanArchi.API.csproj|solutionrelative:cleanarchi.api\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4214504B-D971-4943-B1A1-916A2055F971}|CleanArchi.Application\\CleanArchi.Application.csproj|c:\\users\\pc\\source\\repos\\cleanarchi\\cleanarchi.application\\blogs\\commands\\createblog\\createblogcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4214504B-D971-4943-B1A1-916A2055F971}|CleanArchi.Application\\CleanArchi.Application.csproj|solutionrelative:cleanarchi.application\\blogs\\commands\\createblog\\createblogcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77D125BA-AB79-4E51-8D64-4380835B7977}|CleanArchi.Infra\\CleanArchi.Infra.csproj|c:\\users\\pc\\source\\repos\\cleanarchi\\cleanarchi.infra\\repository\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77D125BA-AB79-4E51-8D64-4380835B7977}|CleanArchi.Infra\\CleanArchi.Infra.csproj|solutionrelative:cleanarchi.infra\\repository\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77D125BA-AB79-4E51-8D64-4380835B7977}|CleanArchi.Infra\\CleanArchi.Infra.csproj|c:\\users\\pc\\source\\repos\\cleanarchi\\cleanarchi.infra\\data\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,6 +99,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ConfigureSevices.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.Application\\ConfigureSevices.cs",
+              "RelativeDocumentMoniker": "CleanArchi.Application\\ConfigureSevices.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.Application\\ConfigureSevices.cs",
+              "RelativeToolTip": "CleanArchi.Application\\ConfigureSevices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T18:35:38.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateBlogCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.Application\\Blogs\\Commands\\CreateBlog\\CreateBlogCommandValidator.cs",
+              "RelativeDocumentMoniker": "CleanArchi.Application\\Blogs\\Commands\\CreateBlog\\CreateBlogCommandValidator.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.Application\\Blogs\\Commands\\CreateBlog\\CreateBlogCommandValidator.cs",
+              "RelativeToolTip": "CleanArchi.Application\\Blogs\\Commands\\CreateBlog\\CreateBlogCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T18:27:09.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValidationBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.Application\\Common\\Behaviours\\ValidationBehaviour.cs",
+              "RelativeDocumentMoniker": "CleanArchi.Application\\Common\\Behaviours\\ValidationBehaviour.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.Application\\Common\\Behaviours\\ValidationBehaviour.cs",
+              "RelativeToolTip": "CleanArchi.Application\\Common\\Behaviours\\ValidationBehaviour.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAApwA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T18:09:30.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "BlogController.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.API\\Controllers\\BlogController.cs",
               "RelativeDocumentMoniker": "CleanArchi.API\\Controllers\\BlogController.cs",
@@ -99,20 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.API\\appsettings.json",
-              "RelativeDocumentMoniker": "CleanArchi.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.API\\appsettings.json",
-              "RelativeToolTip": "CleanArchi.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-02-27T17:59:48.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "BlogDbContext.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.Infra\\Data\\BlogDbContext.cs",
               "RelativeDocumentMoniker": "CleanArchi.Infra\\Data\\BlogDbContext.cs",
@@ -125,34 +163,60 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "BlogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.Infra\\Repository\\BlogRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchi.Infra\\Repository\\BlogRepository.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.Infra\\Repository\\BlogRepository.cs",
+              "RelativeToolTip": "CleanArchi.Infra\\Repository\\BlogRepository.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAtwDwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T10:51:04.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CleanArchi.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.API\\appsettings.json",
+              "RelativeToolTip": "CleanArchi.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-27T17:59:48.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ConfigureServices.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.Infra\\ConfigureServices.cs",
               "RelativeDocumentMoniker": "CleanArchi.Infra\\ConfigureServices.cs",
               "ToolTip": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.Infra\\ConfigureServices.cs",
               "RelativeToolTip": "CleanArchi.Infra\\ConfigureServices.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAuwB0AAAAMAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA+wB0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-22T12:52:41.042Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CleanArchi.Application",
+              "DocumentIndex": 14,
+              "Title": "CleanArchi.Application.csproj",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.Application\\CleanArchi.Application.csproj",
               "RelativeDocumentMoniker": "CleanArchi.Application\\CleanArchi.Application.csproj",
               "ToolTip": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.Application\\CleanArchi.Application.csproj",
               "RelativeToolTip": "CleanArchi.Application\\CleanArchi.Application.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-02-27T18:06:15.263Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CleanArchi.Domain",
+              "DocumentIndex": 13,
+              "Title": "CleanArchi.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.Domain\\CleanArchi.Domain.csproj",
               "RelativeDocumentMoniker": "CleanArchi.Domain\\CleanArchi.Domain.csproj",
               "ToolTip": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.Domain\\CleanArchi.Domain.csproj",
@@ -164,34 +228,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BlogRepository.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.Infra\\Repository\\BlogRepository.cs",
-              "RelativeDocumentMoniker": "CleanArchi.Infra\\Repository\\BlogRepository.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.Infra\\Repository\\BlogRepository.cs",
-              "RelativeToolTip": "CleanArchi.Infra\\Repository\\BlogRepository.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAewBMAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T10:51:04.1Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "CreateBlogCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.Application\\Blogs\\Commands\\CreateBlog\\CreateBlogCommandHandler.cs",
               "RelativeDocumentMoniker": "CleanArchi.Application\\Blogs\\Commands\\CreateBlog\\CreateBlogCommandHandler.cs",
               "ToolTip": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.Application\\Blogs\\Commands\\CreateBlog\\CreateBlogCommandHandler.cs",
               "RelativeToolTip": "CleanArchi.Application\\Blogs\\Commands\\CreateBlog\\CreateBlogCommandHandler.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAIAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-27T17:39:16.252Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CleanArchi.API",
+              "DocumentIndex": 5,
+              "Title": "CleanArchi.API.csproj",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.API\\CleanArchi.API.csproj",
               "RelativeDocumentMoniker": "CleanArchi.API\\CleanArchi.API.csproj",
               "ToolTip": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.API\\CleanArchi.API.csproj",
@@ -203,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.API\\Program.cs",
               "RelativeDocumentMoniker": "CleanArchi.API\\Program.cs",
@@ -216,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "BlogDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.Infra\\Migrations\\BlogDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "CleanArchi.Infra\\Migrations\\BlogDbContextModelSnapshot.cs",
@@ -229,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "20240227181904_firstinisital.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.Infra\\Migrations\\20240227181904_firstinisital.cs",
               "RelativeDocumentMoniker": "CleanArchi.Infra\\Migrations\\20240227181904_firstinisital.cs",
@@ -242,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "ApiControllerBase.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.API\\Controllers\\ApiControllerBase.cs",
               "RelativeDocumentMoniker": "CleanArchi.API\\Controllers\\ApiControllerBase.cs",
@@ -255,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Blog.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.Domain\\Entity\\Blog.cs",
               "RelativeDocumentMoniker": "CleanArchi.Domain\\Entity\\Blog.cs",
@@ -268,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "IBlogRepository.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.Domain\\Repository\\IBlogRepository.cs",
               "RelativeDocumentMoniker": "CleanArchi.Domain\\Repository\\IBlogRepository.cs",
@@ -281,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "CreateBlogCommand.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.Application\\Blogs\\Commands\\CreateBlog\\CreateBlogCommand.cs",
               "RelativeDocumentMoniker": "CleanArchi.Application\\Blogs\\Commands\\CreateBlog\\CreateBlogCommand.cs",
@@ -294,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "CleanArchi.Infra.csproj",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CleanArchi\\CleanArchi.Infra\\CleanArchi.Infra.csproj",
               "RelativeDocumentMoniker": "CleanArchi.Infra\\CleanArchi.Infra.csproj",

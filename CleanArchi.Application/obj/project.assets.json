@@ -467,6 +467,7 @@
     "net6.0": [
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1",
       "CleanArchi.Domain >= 1.0.0",
+      "FluentValidation >= 11.9.0",
       "FluentValidation.DependencyInjectionExtensions >= 11.9.0",
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 8.0.0"
     ]
@@ -527,6 +528,10 @@
           "AutoMapper.Extensions.Microsoft.DependencyInjection": {
             "target": "Package",
             "version": "[12.0.1, )"
+          },
+          "FluentValidation": {
+            "target": "Package",
+            "version": "[11.9.0, )"
           },
           "FluentValidation.DependencyInjectionExtensions": {
             "target": "Package",

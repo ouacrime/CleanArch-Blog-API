@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanArchi.Infra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08802bdb9489dcb9711d67ad031ef4dc377507ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b8a5d6fb620222a5b3417d33e9dd1703495d5d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanArchi.Infra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanArchi.Infra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
