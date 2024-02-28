@@ -13,7 +13,7 @@ namespace CleanArchi.Infra.Data
         public BlogDbContext(DbContextOptions<BlogDbContext> dbContextOptions)
             :base(dbContextOptions) 
         {
-
+            
         }
         public DbSet<Blog> Blogs { get; set; }
         
